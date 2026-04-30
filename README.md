@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# calorie_IA
-=======
+
 # 🍽️ Calorie IA
 
 > Analysez vos repas en photo — calories, ingrédients et macros en quelques secondes.  
@@ -208,4 +206,4 @@ MIT — libre d'utilisation, modification et distribution.
 <p align="center">
   Fait avec ❤️ en Tunisie 🇹🇳
 </p>
->>>>>>> ebc7a06db221da8fa49c1d81b6ff770dd850b506
+
