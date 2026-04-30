@@ -1,0 +1,12 @@
+venv/
+venv-tf/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.out
+
+backend/ml_model/*.h5
+backend/ml_model/*.tflite
+
+frontend/build/

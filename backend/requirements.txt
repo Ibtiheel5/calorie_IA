@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+numpy
+httpx
+sqlalchemy
+psycopg2-binary
+passlib[bcrypt]
+python-jose[cryptography]
+email-validator
